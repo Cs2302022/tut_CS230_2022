@@ -1,0 +1,24 @@
+Hi 
+
+Deadline 30 Aug 2022 for all three Labs for all stud 
+
+CS230 2022 Lab 3 - Overleaf Link - Infocomm Paper
+https://docs.google.com/forms/d/e/1FAIpQLSc7INgygnbaDHNJYc-m--VK9ezrZplDc6riahiw89lKSbfzTQ/viewform?usp=sf_link
+
+Template https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn
+CLick "Open as Template"
+
+import zip into overleaf 
+then based on roll select the paper 
+rewrite whole paper
+
+for tables keep dimension same but content can be random
+https://www.tablesgenerator.com/latex_tables
+
+figures use screenshot 
+
+Papers
+http://172.16.26.43/cs230/
+
+Detexify LaTeX handwritten symbol recognition (kirelabs.org)
+https://detexify.kirelabs.org/classify.html
